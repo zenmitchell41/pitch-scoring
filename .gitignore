@@ -1,0 +1,19 @@
+# RStudio / R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Large data and model files
+*.csv
+*.parquet
+*.feather
+*.rds
+*.pkl
+*.joblib
+data/
